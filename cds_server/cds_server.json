@@ -1,0 +1,6 @@
+[
+	["echo", "/bin/cat"],
+	["mopp-2018-t0-harmonic-progression-sum","/tmp/mopp-2018-t0-harmonic-progression-sum/harmonic-progression-sum"],
+	["mopp-2018-t1-average","/tmp/mopp-2018-t1-average/average"],
+	["mopp-2018-t2-levenshtein","/tmp/mopp-2018-t2-levenshtein/levMain"]
+]
